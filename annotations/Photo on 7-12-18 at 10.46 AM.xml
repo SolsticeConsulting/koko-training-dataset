@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>Photo on 7-12-18 at 10.46 AM.jpg</filename>
+	<path>/Users/lilyroter/Desktop/JPEGImages/Photo on 7-12-18 at 10.46 AM.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>q</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>166</ymin>
+			<xmax>681</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>

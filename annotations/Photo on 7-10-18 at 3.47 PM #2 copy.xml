@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>b</folder>
+	<filename>Photo on 7-10-18 at 3.47 PM #2 copy.jpg</filename>
+	<path>/Users/nickjean-baptiste/Desktop/abc/b/Photo on 7-10-18 at 3.47 PM #2 copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>327</xmin>
+			<ymin>211</ymin>
+			<xmax>492</xmax>
+			<ymax>514</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>a</folder>
+	<filename>Photo on 7-10-18 at 3.43 PM #3.jpg</filename>
+	<path>/Users/nickjean-baptiste/Desktop/abc/a/Photo on 7-10-18 at 3.43 PM #3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>466</xmin>
+			<ymin>212</ymin>
+			<xmax>631</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>
