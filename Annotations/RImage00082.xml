@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>RImage00082.jpg</filename>
+	<path>/Users/solsticeloaner182/Desktop/JPEGImages/RImage00082.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>l</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>134</ymin>
+			<xmax>427</xmax>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>RImage00051.jpg</filename>
+	<path>/Users/solsticeloaner182/Desktop/JPEGImages/RImage00051.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>c</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>160</ymin>
+			<xmax>678</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>
