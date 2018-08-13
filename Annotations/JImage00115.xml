@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>JImage00115.png</filename>
+	<path>/Users/josephantony/koko-training-dataset/JPEGImages/JImage00115.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1404</width>
+		<height>948</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>k</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>93</ymin>
+			<xmax>416</xmax>
+			<ymax>499</ymax>
+		</bndbox>
+	</object>
+</annotation>
