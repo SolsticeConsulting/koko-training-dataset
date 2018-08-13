@@ -1,7 +1,7 @@
 <annotation verified="yes">
 	<folder>JPEGImages</folder>
 	<filename>SImage00097.jpg</filename>
-	<path>/Users/samanthacanillo/Desktop/AndroidPics/JPEGImages/SImage00097.jpg</path>
+	<path>/Users/samanthacanillo/Desktop/repos/google-next-v2/dataSet/koko-training-dataset/JPEGImages/SImage00097.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>a</name>
+		<name>s</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
