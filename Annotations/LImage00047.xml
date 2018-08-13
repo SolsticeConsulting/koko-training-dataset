@@ -1,7 +1,7 @@
 <annotation verified="yes">
 	<folder>JPEGImages</folder>
-	<filename>LImage00004.jpg</filename>
-	<path>/Users/lilyroter/Documents/koko-training-dataset/JPEGImages/LImage00004.jpg</path>
+	<filename>LImage00047.jpg</filename>
+	<path>/Users/lilyroter/Documents/koko-training-dataset/JPEGImages/LImage00047.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>603</xmin>
-			<ymin>202</ymin>
-			<xmax>753</xmax>
-			<ymax>485</ymax>
+			<xmin>608</xmin>
+			<ymin>123</ymin>
+			<xmax>798</xmax>
+			<ymax>482</ymax>
 		</bndbox>
 	</object>
 </annotation>

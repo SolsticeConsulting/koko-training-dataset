@@ -1,26 +1,26 @@
 <annotation verified="yes">
 	<folder>JPEGImages</folder>
-	<filename>LImage00004.jpg</filename>
-	<path>/Users/lilyroter/Documents/koko-training-dataset/JPEGImages/LImage00004.jpg</path>
+	<filename>LImage00115.png</filename>
+	<path>/Users/lilyroter/Documents/koko-training-dataset/JPEGImages/LImage00115.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1280</width>
-		<height>720</height>
+		<width>1285</width>
+		<height>717</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>d</name>
+		<name>v</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>603</xmin>
-			<ymin>202</ymin>
-			<xmax>753</xmax>
-			<ymax>485</ymax>
+			<xmin>471</xmin>
+			<ymin>176</ymin>
+			<xmax>608</xmax>
+			<ymax>375</ymax>
 		</bndbox>
 	</object>
 </annotation>
