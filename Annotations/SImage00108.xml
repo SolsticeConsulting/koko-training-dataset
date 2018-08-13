@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>SImage00108.jpg</filename>
+	<path>/Users/samanthacanillo/Desktop/AndroidPics/JPEGImages/SImage00108.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>m</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1162</xmin>
+			<ymin>1073</ymin>
+			<xmax>2448</xmax>
+			<ymax>2495</ymax>
+		</bndbox>
+	</object>
+</annotation>

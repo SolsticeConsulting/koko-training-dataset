@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>SImage00113.jpg</filename>
+	<path>/Users/samanthacanillo/Desktop/AndroidPics/JPEGImages/SImage00113.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>r</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1435</xmin>
+			<ymin>541</ymin>
+			<xmax>2603</xmax>
+			<ymax>2323</ymax>
+		</bndbox>
+	</object>
+</annotation>
