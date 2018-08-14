@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>NImage47.jpg</filename>
+	<path>/Users/nickjean-baptiste/Desktop/things/JPEGImages/NImage47.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3036</width>
+		<height>4048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>w</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1334</xmin>
+			<ymin>1408</ymin>
+			<xmax>1634</xmax>
+			<ymax>1852</ymax>
+		</bndbox>
+	</object>
+</annotation>

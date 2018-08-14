@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>NImage52.jpg</filename>
+	<path>/Users/nickjean-baptiste/Desktop/things/JPEGImages/NImage52.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3036</width>
+		<height>4048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>c</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1265</xmin>
+			<ymin>1808</ymin>
+			<xmax>1721</xmax>
+			<ymax>2189</ymax>
+		</bndbox>
+	</object>
+</annotation>

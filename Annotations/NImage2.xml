@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>NImage2.jpg</filename>
+	<path>/Users/nickjean-baptiste/Desktop/things/JPEGImages/NImage2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3036</width>
+		<height>4048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1096</xmin>
+			<ymin>1464</ymin>
+			<xmax>1440</xmax>
+			<ymax>2183</ymax>
+		</bndbox>
+	</object>
+</annotation>
